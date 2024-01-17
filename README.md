@@ -1,3 +1,3 @@
-DataFreme in pandas
+DataFrame in pandas
 
 Using a Dataframe by the user selecting a specific cell
